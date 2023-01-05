@@ -10,6 +10,8 @@
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willc127&layout=compact&theme=transparent)](https://github.com/willc127/github-readme-stats)
 
+<img align="right" height="170" src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"  />
+
 ## Technologies that I use in my day
 
 <div style="display: inline_block"><br/>
