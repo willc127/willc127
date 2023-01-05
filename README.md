@@ -1,10 +1,11 @@
 ### Hi! I am William Cesar ✋
 
+🕮 Studying Data Science
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cesar-1a0ab187/)
 
-![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willc127&layout=compact)](https://github.com/willc127/github-readme-stats)
+![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willc127&layout=compact&theme=transparent)](https://github.com/willc127/github-readme-stats)
 
 ## Technologies that I use in my day
 
@@ -20,3 +21,4 @@
 </div><br/>
 
 “Too often we forget that genius, too, depends upon the data within its reach, that even Archimedes could not have devised Edison’s inventions.” – Ernest Dimnet
+![Snake animation](https://github.com/willc127/willc127/blob/output/github-contribution-grid-snake.svg)
