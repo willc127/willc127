@@ -10,7 +10,7 @@
 <img align="right" height="130" src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"  />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&username=willc127" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent" height="130"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=transparent&hide_border=false&username=willc127" height="130" alt="languages graph"  />
 </div>
 
