@@ -5,6 +5,7 @@
 🕮 Studying Data Science
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cesar-1a0ab187/)
+[![Blog](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/g_rmc/willc127)
 
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willc127&layout=compact&theme=transparent)](https://github.com/willc127/github-readme-stats)
