@@ -1,4 +1,6 @@
-### Hi! I am William Cesar ✋
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=1619f7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;Welcome+to+my+page%2C+I%E2%80%99m+William" alt="Typing SVG" /></a>
+</h1>
 
 🕮 Studying Data Science
 
