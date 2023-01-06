@@ -2,19 +2,33 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=164ef7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;Welcome+to+my+page%2C+I%E2%80%99m+William" alt="Typing SVG" /></a>
 </h1>
 
-🕮 I'm currently learning Python and R for Data Science
+<img align="right" height="300" src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"  />
+
+###
+
+<h3 align="left">About me</h2>
+
+ <p align="left">🎓 I'm a engineer bachelor with a major in chemical engineering</p>
+ <p align="left">✍ I’m currently working on my portfolio</p>
+ <p align="left">😄 Pronouns: He/Him</p>
+ <p align="left">🕮 I'm currently learning Python and R for Data Science</p>
+ <p align="left">💬 Ask me about ... Anything</p>
+ 
+###
+
+<h3 align="left">Contact me</h2>
+
+<p align="left"><a href="mailto:williamcesar.ribeiro@outlook.com">✉ williamcesar.ribeiro@outlook.com</a></p>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cesar-1a0ab187/)
 [![Blog](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/willc127/)
-
-<img align="right" height="130" src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent" height="130"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=transparent&hide_border=false&username=willc127" height="130" alt="languages graph"  />
 </div>
 
-## Technologies that I use in my day
+### Languages and Tools:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
