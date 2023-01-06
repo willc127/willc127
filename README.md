@@ -2,11 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=164ef7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;Welcome+to+my+page%2C+I%E2%80%99m+William" alt="Typing SVG" /></a>
 </h1>
 
-<img align="right" height="300" src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"  />
+<img align="right" height="350" src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"  />
 
 ###
 
-<h3 align="left">About me</h2>
+<h3 align="left">About me:</h2>
 
  <p align="left">🎓 I'm a engineer bachelor with a major in chemical engineering</p>
  <p align="left">✍ I’m currently working on my portfolio</p>
