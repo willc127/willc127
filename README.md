@@ -11,21 +11,20 @@
  <p align="left">🕮 I'm currently learning Python and R for Data Science</p>
  <p align="left">😄 Pronouns: He/Him</p>
  <p align="left">💬 Ask me about ... Anything</p>
- <p align="left">♘ You want to play a game of chess? 
+ <p align="left">♘ Do you want to play a game of chess? 
  
   [<img alt="Chess" width="80" src="https://preview.redd.it/fd50cxqm4nl71.png?width=640&crop=smart&auto=webp&s=ddecdca190d6ff782bce6fccbe57efcb7084e7d2" />](https://www.chess.com/member/williamcesar)</p>
 
  ---
  
-
-
-
 ### My stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent" height="130"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=transparent&hide_border=false&username=willc127" height="130" alt="languages graph"  />
 </div>
+
+---
 
 ### Languages and Tools:
 
@@ -40,6 +39,8 @@
 <img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)"/>
 <img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div><br/>
+
+---
 
 ### <h3 align="left">Contact me:</h2>
 
