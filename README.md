@@ -4,24 +4,23 @@
 
 <img align="right" height="350" src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"  />
 
-###
-
-<h3 align="left">About me:</h2>
+### <h3 align="left">About me:</h2>
 
  <p align="left">🎓 I'm a engineer bachelor with a major in chemical engineering</p>
  <p align="left">✍ I’m currently working on my portfolio</p>
- <p align="left">😄 Pronouns: He/Him</p>
  <p align="left">🕮 I'm currently learning Python and R for Data Science</p>
+ <p align="left">😄 Pronouns: He/Him</p>
  <p align="left">💬 Ask me about ... Anything</p>
+ <p align="left">♘ You want to play a game of chess? 
  
-###
+  [<img alt="Chess" width="80" src="https://preview.redd.it/fd50cxqm4nl71.png?width=640&crop=smart&auto=webp&s=ddecdca190d6ff782bce6fccbe57efcb7084e7d2" />](https://www.chess.com/member/williamcesar)</p>
 
-<h3 align="left">Contact me</h2>
+ ---
+ 
 
-<p align="left"><a href="mailto:williamcesar.ribeiro@outlook.com">✉ williamcesar.ribeiro@outlook.com</a></p>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cesar-1a0ab187/)
-[![Blog](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/willc127/)
+
+### My stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent" height="130"/>
@@ -41,6 +40,14 @@
 <img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)"/>
 <img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div><br/>
+
+### <h3 align="left">Contact me:</h2>
+
+<p align="left"><a href="mailto:williamcesar.ribeiro@outlook.com">✉ williamcesar.ribeiro@outlook.com</a></p>
+
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cesar-1a0ab187/)
+[![Blog](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/willc127/)
 
 “Too often we forget that genius, too, depends upon the data within its reach, that even Archimedes could not have devised Edison’s inventions.” – Ernest Dimnet
 
