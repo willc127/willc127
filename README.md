@@ -52,5 +52,3 @@
 [![Blog](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/willc127/)
 
 “Too often we forget that genius, too, depends upon the data within its reach, that even Archimedes could not have devised Edison’s inventions.” – Ernest Dimnet
-
-<!--- ![Snake animation](https://github.com/willc127/willc127/blob/output/github-contribution-grid-snake.svg)
