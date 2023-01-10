@@ -18,7 +18,7 @@
 
  ---
  
-### My stats:
+### 📈 My stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent" height="130"/>
@@ -27,21 +27,44 @@
 
 ---
 
-### Languages and Tools:
-
+### 📋 Languages:
 <div style="display: inline_block"><br/>
-
 <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img align="center" alt="jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)"/>
 <img align="center" alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 <img align="center" alt="MATLAB"  height="28" src="https://uwaterloo.ca/mechanical-mechatronics-engineering-information-technology/sites/default/files/uploads/images/matlab-logo_0.jpg"/>
 <img align="center" alt="octave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img align="center" alt="latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)"/>
+</div><br/>
+  
+### 💻 IDEs/Editors:
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img align="center" alt="jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)"/>
+<img align="center" alt="Rstudio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
+</div><br/>
+
+<!-- ### 💾 Databases:
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="center" alt="PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div><br/> -->
+
+### 🕓 Version Control:
+<div style="display: inline_block"><br/>
 <img align="center" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/>
+</div><br/>
+
+### 🏢 Office Tools:
+
+<div style="display: inline_block"><br/>
 <img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)"/>
-<img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img align="center" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+<img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img align="center" alt="powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+<img align="center" alt="visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white"/>
 </div><br/>
 
 ---
@@ -49,7 +72,6 @@
 ### <h3 align="left">Contact me:</h2>
 
 <p align="left"><a href="mailto:williamcesar.ribeiro@outlook.com">✉ williamcesar.ribeiro@outlook.com</a></p>
-
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cesar-1a0ab187/)
 [![Blog](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/willc127/)
