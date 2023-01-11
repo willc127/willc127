@@ -21,8 +21,8 @@
 ### 📈 My stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=transparent&hide_border=false&username=willc127" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=willc127&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=transparent&hide_border=false&username=willc127" height="150" alt="languages graph"  />
 </div>
 
 ---
