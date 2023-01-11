@@ -60,10 +60,10 @@
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)"/>
-<img align="center" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-<img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img align="center" alt="powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-<img align="center" alt="visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white"/>
+<img align="center" alt="word" src="https://img.shields.io/badge/WORD-2b579a?style=for-the-badge&logo=Microsoft+Word&logoColor=white"/>
+<img align="center" alt="excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=Microsoft+Excel&logoColor=white"/>
+<img align="center" alt="powerpoint" src="https://img.shields.io/badge/POWER_POINT-b7472a?style=for-the-badge&logo=Microsoft+PowerPoint&logoColor=white"/>
+<img align="center" alt="visio" src="https://img.shields.io/badge/VISIO-3955a3?style=for-the-badge&logo=Microsoft+Visio&logoColor=white"/>
 </div><br/>
 
 ---
