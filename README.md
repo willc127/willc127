@@ -31,9 +31,9 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img align="center" alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-<img align="center" alt="MATLAB"  height="28" src="https://uwaterloo.ca/mechanical-mechatronics-engineering-information-technology/sites/default/files/uploads/images/matlab-logo_0.jpg"/>
-<img align="center" alt="octave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="center" alt="MATLAB" src="https://img.shields.io/badge/MATLAB-a4380e?style=for-the-badge&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F2%2F21%2FMatlab_Logo.png&logoColor=white"/>
+<img align="center" alt="octave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 <img align="center" alt="latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)"/>
 </div><br/>
   
