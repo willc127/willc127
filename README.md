@@ -8,8 +8,8 @@
 
  <p align="left">👨🏻‍🔬Engineer with a passion for problem-solving and making the world better place. 
  <p align="left">🎓 Master's in chemical engineering from Universidade de Campinas</p>
- <p align="left">✍ I’m currently working on my portfolio</p>
  <p align="left">🕮 I'm currently learning Python and R for Data Science</p>
+ <p align="left">✍ I’m currently working on my portfolio</p>
  <p align="left">😄 Pronouns: He/Him</p>
  <p align="left">♘ Do you want to play a game of chess? 
  
