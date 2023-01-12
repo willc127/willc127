@@ -60,7 +60,7 @@
 <img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)"/>
 <img align="center" alt="word" src="https://img.shields.io/badge/WORD-2b579a?style=for-the-badge&logo=Microsoft+Word&logoColor=white"/>
 <img align="center" alt="excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=Microsoft+Excel&logoColor=white"/>
-<img align="center" alt="powerpoint" src="https://img.shields.io/badge/POWER_POINT-b7472a?style=for-the-badge&logo=Microsoft+PowerPoint&logoColor=white"/>
+<img align="center" alt="powerpoint" src="https://img.shields.io/badge/POWERPOINT-b7472a?style=for-the-badge&logo=Microsoft+PowerPoint&logoColor=white"/>
 <img align="center" alt="visio" src="https://img.shields.io/badge/VISIO-3955a3?style=for-the-badge&logo=Microsoft+Visio&logoColor=white"/>
 </div><br/>
 
