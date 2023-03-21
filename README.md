@@ -42,7 +42,7 @@
 <img align="center" alt="Rstudio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
 </div><br/>
 
-### 💾 Databases:
+## 💾 Databases:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
