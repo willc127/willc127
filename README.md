@@ -10,7 +10,6 @@
  <p align="left">🎓 Master's in chemical engineering from Universidade de Campinas</p>
  <p align="left">🕮 I'm currently learning Python and R for Data Science</p>
  <p align="left">✍ I’m currently working on my portfolio</p>
- <p align="left">😄 Pronouns: He/Him</p>
  <p align="left">♘ Do you want to play a game of chess? 
  
   [<img alt="Chess" width="80" src="https://preview.redd.it/fd50cxqm4nl71.png?width=640&crop=smart&auto=webp&s=ddecdca190d6ff782bce6fccbe57efcb7084e7d2" />](https://www.chess.com/member/williamcesar)</p>
