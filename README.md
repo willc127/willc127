@@ -48,14 +48,16 @@
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/> 
 
-## 🏢 Office Tools:
+## 🏢 Office and Visualization Tools:
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)"/>
+<img align="center" alt="powerBI" src="https://img.shields.io/static/v1?label=&message=Power+BI&color=%23F2C811&style=for-the-badge&logo=Power+BI&logoColor=grey"/>
+<img align="center" alt="Tableau" src="https://img.shields.io/static/v1?label=&message=Tableau&color=%23E97627&style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img align="center" alt="word" src="https://img.shields.io/badge/WORD-2b579a?style=for-the-badge&logo=Microsoft+Word&logoColor=white"/>
 <img align="center" alt="excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=Microsoft+Excel&logoColor=white"/>
 <img align="center" alt="powerpoint" src="https://img.shields.io/badge/POWERPOINT-b7472a?style=for-the-badge&logo=Microsoft+PowerPoint&logoColor=white"/>
 <img align="center" alt="visio" src="https://img.shields.io/badge/VISIO-3955a3?style=for-the-badge&logo=Microsoft+Visio&logoColor=white"/>
+<img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)"/>
 </div><br/>
 
 ## 🕓 Version Control:
