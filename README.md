@@ -8,7 +8,7 @@
 
  <p align="left">👨🏻‍🔬Engineer with a passion for problem-solving and making the world better place. 
  <p align="left">🎓 Master's in chemical engineering from Universidade de Campinas</p>
- <p align="left">🕮 I'm currently learning Python and R for Data Science</p>
+ <p align="left">🕮 I'm currently learning Python and SQL for Data Science</p>
  <p align="left">✍ I’m currently working on my portfolio</p>
  <p align="left">♘ Do you want to play a game of chess? 
  
@@ -38,7 +38,6 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img align="center" alt="jupyter" src="https://img.shields.io/badge/JUPYTER-da5b0b?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-<img align="center" alt="Rstudio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
 </div><br/>
 
 ## 💾 Databases:
