@@ -43,6 +43,7 @@
 ## 💾 Databases:
 
 <div style="display: inline_block"><br/>
+<img align="center" alt="MySQL" src="https://img.shields.io/static/v1?label=&message=mysql&color=%234479A1&style=for-the-badge&logo=MySQL&logoColor=white"/>  
 <img align="center" alt="PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/> 
@@ -56,7 +57,7 @@
 <img align="center" alt="excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=Microsoft+Excel&logoColor=white"/>
 <img align="center" alt="powerpoint" src="https://img.shields.io/badge/POWERPOINT-b7472a?style=for-the-badge&logo=Microsoft+PowerPoint&logoColor=white"/>
 <img align="center" alt="visio" src="https://img.shields.io/badge/VISIO-3955a3?style=for-the-badge&logo=Microsoft+Visio&logoColor=white"/>
-<img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)"/>
+<img align="center" alt="OnlyOffice" src="https://img.shields.io/static/v1?label=&message=onlyoffice&color=2ea44f&style=for-the-badge&logo=ONLYOFFICE&logoColor=%23444444)"/>
 </div><br/>
 
 ## 🕓 Version Control:
