@@ -26,11 +26,7 @@
 <img align="center" alt="Javascript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="Typescript" height =50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img align="center" alt="Python" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
-<img align="center" alt="MATLAB" height =50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
-    
-<!-- MATLAB src="https://img.shields.io/badge/MATLAB-f00.svg?style=for-the-badge&logoColor=white&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA%2F4ePzL8AAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfnAQwAMQvhrMmoAAAGpElEQVRo3t2Ze4gVZRjG35k5x0te8rZoUkpkaZbhEiillqJoFhZFllgksiJWYi5loIVZQmnShQKjqCy8UURlaCDaKmZJpBarqxmJipfKTFdNPZeZ8%2BuPeec7c%2FbcZs%2Be%2FKMZ2HN2zsz3PO%2FzPt%2F7vTNjIVXebLEEyUQ93aoqAdsAWyISaehqErAEERkh%2FaRJGnPolNqo1m4hTKYRgAxf0hfBKX9dteBthGcA8EiTAQ5zrR6%2FDAQchHuBDCkAXJLAHjqqMpdBgS4cAlLABX4GMiSB98prUA3wGMIcIAl4jEdYBaTwgPvLOaE65uvEr0rgFQQhTqP%2Bf4zupdNQnfwvN%2FL3Q4gjDMNTCq%2BV1qAa8j8MeKSAFQoWQ1ikpC4yoJQGbY%2F%2Bes7p5IMnFdxC6MABIAG8UUqDtmY%2Fzm4gTYYMMJ7A9TGEOtXgJDXFNWgLARthpYJkgPP0yQHqyG%2Fqg8eLa1A5fBzhKRO9C%2BzIS88iTcK2apvQxkKYSBrwTAVclhOnhTCQpJbnWyhSkuxWr3iO2JIRZL58LTHxxBIREUdEGlqscpYckC0ikhRbHtAluo2rYRDfADYAkNa1zwOO0qXA2TPUI3vb7gFLoRfyFReBtJqvWSHezRPZQujN35qmOwsnoTXwDi%2FyD%2F6WJA0cZyYnABcYWwDARlgNXCpeEVtDYBUACRJkAPiGzszSifZTwXnuIDykqdpPvPIUxBCeAFKadWikDiHGUSUwu2B8FkJPTmoSRhZKQlTrDdK8wzFmM0wHelrzf5xuFK51NsJaTcLSQiSjRR9jl0KdZaD5pQfHNf7nKVbpHISpeu2%2BQkkonXdHI%2F0CSJMG6hDaYRNDWKbwJ%2BhBsVpvIfTir5BRnWgEHJOtm9kCuKSA1Sqqg1CLq5HVU2rFD1aMS8AH%2BS4odEEwWA3T2YgHuKSBRq4IRbpd499T2N05SbhbFThF75ZatZTc%2FxZnAiv4Sx3v4gFNdDWOEBYAaTxgIuX7%2Fzj7le6slmfnS34Li9mv0CkSuErgEJMQhPYIt2sxgo8o3%2Fs7CAt1Xdyeb8Js3Fcxi614GvUlXIItrd9X0QehJ4dMy9mTsp0%2FFsINJLRrGJ5L2f%2FoyCTWcEbhEnp7AQdYyH38qGq4wJ9MYT2QIgPcE0H%2BgMI6NeJbudcIvXiVgyHJ%2Fe0kHzJe7eWwCNcsP5gWdElEeP%2BsB7WQtShaQoO5o3M1sxuZTi9zaQxBqGWHpsZV%2BE2RoLN7J3Pv9FiYuOjKllGnz%2BWmvOkYnF6PC2RIAwfpEcF%2BuRosUSNuzlXgfR3UJ3AjgtAurzbYCPUG%2FiyDI8ufLUdDNIAMtVnygvBcjtMXITrXg93%2F%2FrbpgZKMbHFGeQv6fzeqBq9n6funDGevsRZ8y0AEC9skojsbzO9pxkWGd0JTtD3ZZSlkxCA%2F7TVCf8W%2FwKxQ7u%2FiiJkDFxgTEd42wN1Mt3glR5RCXTB62GSTOG4eLsDn9EEYzMpQgo5RGxHeQbCYzCcc5Byn%2BIGXGYywWJPwfdaEQZ4chF58qlPRBQ6zThtPvxh%2FR99I8L7sY9hF7pZiMbU0a3802lepJWuhjvM5RSet9z2r88xZSvoX9NpLWtqDEreTfZqEtfkEguk2gC2qQxKPjN54%2FsG8UHyl4VcSPKQBaOZCyF%2FoeEkGIdj5Q%2FgxLjANeFD%2FAJZHEv%2BzkILLGUZXrqaOA2SfoPnV5E0Ep3gU%2FZjPVn7njPL3W7J5FC9APvzHQIoUcJRRoV878o4GE9xLnaZvqZbM%2F%2BxEZ%2Foyh9NahFyGUKwE2whLTfR71bI2gqW6TtVKEmjwUqmm1MqJdCjN2gOsK%2BIDB%2BFxU65%2BoaaFZf3xRnFOTegBJ6mJVkrbITxqmrMRBTRwEKap1eAE%2FQvOmBjCEF0VfQ0WRyEQyNugRWR1HoEYwhQDn%2BDWohM2hlDDD8ZTZ6ISCPe25%2Bmfk4YY%2FoNa1PmTKFUvYggd%2BEzn159RCfj7bvVBeC7EEMbhGfgHKbdQ%2B%2BrNYA9NjI0O7iDMVQK7zdE4wigSBv6RsvDZCevkV8JyF13DOU3DBIQ4DsJoLhr4mZHgwxPdjk7Al26NGnG9HnuMlOmR61sBb%2FbWErgD8MgAt3GdWsmHn09resSKCPhp2Ky17AQXAU%2BXnGcpf4NSBQLBmxFXF9kEaSDFtErhK3lQ6dBE%2BO5pW%2FGHkP8FAQe%2FPffXxwYmm6MV7pW8N7SlXobKTtkk%2B%2FT%2FyO9JCzx6beOLS0e8tg1QGQFHEFs8qcJr1%2Bq%2BO65ga%2B3T8v8fgX8B8ZjTo%2FAiQoUAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDEtMTJUMDA6NDk6MTErMDA6MDDEEfaoAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTAxLTEyVDAwOjQ5OjExKzAwOjAwtUxOFAAAAABJRU5ErkJggg%3D%3D"/>  -->
-    
-
+<img align="center" alt="MATLAB" height =50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/> 
 <img align="center" alt="Octave" height=50px  src="https://github.com/willc127/logos/blob/main/Gnu-octave-logo.svg"/>
 <img align="center" alt="Latex" height = 100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"/>
 </div><br/>
@@ -45,17 +41,18 @@
 
 ## 🤖 Artificial Intelligence and Bots:
 <div style="display: inline_block"><br/>
-<img align="center" alt="Chatgpt" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img align="center" alt="Chatgpt" height=50px src="https://github.com/willc127/logos/blob/main/ChatGPT_logo.svg"/>
+<img align="center" alt="Deepseek" height=50px src="https://github.com/willc127/logos/blob/main/DeepSeek_logo.svg"/>
 
 ## 📚 Frameworks, Platforms and Libraries
 <div style="display: inline_block"><br/>
-<img align="center" alt="Angular" height=150px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"/>
+<img align="center" alt="Angular" height=50px src="https://github.com/willc127/logos/blob/main/Angular_wordmark_gradient.png"/>
 
 ## 💻 IDEs/Editors:
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="VSCode" height=100px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
-<img align="center" alt="jupyter" src="https://img.shields.io/badge/JUPYTER-da5b0b?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+<img align="center" alt="VSCode" height=50px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
+<img align="center" alt="jupyter" height=50px  src="https://github.com/willc127/logos/blob/main/Jupyter_logo.svg.png"/>
 </div><br/>
 
 <!-- ## 💾 Databases:
@@ -69,11 +66,11 @@
 ## 🏢 Office:
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="word" src="https://img.shields.io/badge/WORD-2b579a?style=for-the-badge&logo=Microsoft+Word&logoColor=white"/>
-<img align="center" alt="excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=Microsoft+Excel&logoColor=white"/>
-<img align="center" alt="powerpoint" src="https://img.shields.io/badge/POWERPOINT-b7472a?style=for-the-badge&logo=Microsoft+PowerPoint&logoColor=white"/>
-<img align="center" alt="visio" src="https://img.shields.io/badge/VISIO-3955a3?style=for-the-badge&logo=Microsoft+Visio&logoColor=white"/>
-<img align="center" alt="OnlyOffice" src="https://img.shields.io/static/v1?label=&message=onlyoffice&color=2ea44f&style=for-the-badge&logo=ONLYOFFICE&logoColor=%23444444)"/>
+<img align="center" alt="word" height=50px src="https://github.com/willc127/logos/blob/main/Microsoft_Office_Word_(2019%E2%80%93present).svg.png"/>
+<img align="center" alt="excel" height=50px src="https://github.com/willc127/logos/blob/main/Microsoft_Office_Excel_(2019%E2%80%93present).svg"/>
+<img align="center" alt="powerpoint" height=50px src="https://github.com/willc127/logos/blob/main/Microsoft_Office_PowerPoint_(2019%E2%80%93present).svg"/>
+<img align="center" alt="visio" height=50px src="https://github.com/willc127/logos/blob/main/Microsoft_Office_Visio_(2019).svg.png"/>
+<img align="center" alt="OnlyOffice" height=50px src="https://github.com/willc127/logos/blob/main/ONLYOFFICE_logo_(centered).svg.png"/>
 </div><br/>
 
 ## 🕓 Version Control:
