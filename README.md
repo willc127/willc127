@@ -22,7 +22,7 @@
 ## 📋 Languages:
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML" height =50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-<img align="center" alt="CSS" height =50px src = ""/>
+<img align="center" alt="CSS" height =50px src = "https://github.com/willc127/css_logo/blob/main/Official_CSS_Logo.svg.png"/>
 <img align="center" alt="Javascript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="Typescript" height =50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img align="center" alt="Python" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
