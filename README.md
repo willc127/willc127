@@ -39,12 +39,12 @@
 <img align="center" alt="Scikit" height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
  </div><br/>
 
-## Artificial Intelligence and Bots:
+## Artificial Intelligence:
 <div style="display: inline_block"><br/>
 <img align="center" alt="Chatgpt" height=50px src="https://github.com/willc127/logos/blob/main/ChatGPT_logo.svg"/>
 <img align="center" alt="Deepseek" height=50px src="https://github.com/willc127/logos/blob/main/DeepSeek_logo.svg"/>
 
-## Frameworks, Platforms and Libraries
+## Frameworks:
 <div style="display: inline_block"><br/>
 <img align="center" alt="Angular" height=70px src="https://github.com/willc127/logos/blob/main/Angular_wordmark_gradient.png"/>
 
