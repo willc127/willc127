@@ -36,14 +36,6 @@
 <img align="center" alt="Octave" height=70px  src="https://github.com/willc127/logos/blob/main/Gnu-octave-logo.svg"/>
 <img align="center" alt="Latex" height = 100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"/>
 </div><br/>
-  
-## Machine learning:
-<div style="display: inline_block"><br/>
-<img align="center" alt="Numpy" height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
-<img align="center" alt="Pandas" height=80px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
-<img align="center" alt="Matplotlib" height=150px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
-<img align="center" alt="Scikit" height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
- </div><br/>
 
 ## Frameworks:
 <div style="display: inline_block"><br/>
@@ -55,13 +47,21 @@
 <img align="center" alt="Github" height=80px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
 </div><br/>
 
+  
+## Machine learning:
+<div style="display: inline_block"><br/>
+<img align="center" alt="Numpy" height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
+<img align="center" alt="Pandas" height=80px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+<img align="center" alt="Matplotlib" height=150px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
+<img align="center" alt="Scikit" height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+ </div><br/>
+
 ## Artificial Intelligence:
 <div style="display: inline_block"><br/>
 <img align="center" alt="Chatgpt" height=50px src="https://github.com/willc127/logos/blob/main/ChatGPT_logo.svg"/>
 <img align="center" alt="Deepseek" height=50px src="https://github.com/willc127/logos/blob/main/DeepSeek_logo.svg"/>
 
 ## IDEs/Editors:
-
 <div style="display: inline_block"><br/>
 <img align="center" alt="VSCode" height=70px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
 <img align="center" alt="jupyter" height=70px  src="https://github.com/willc127/logos/blob/main/Jupyter_logo.svg.png"/>
