@@ -1,16 +1,22 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=164ef7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;Welcome+to+my+page%2C+I%E2%80%99m+William" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=164ef7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;Welcome+to+my+page%2C+I+am+William" alt="Typing SVG" /></a>
 </h1>
 
-<img align="right" height="350" src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"  />
+<img align="right" height="400" src="https://64.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"  />
 
 ### <h3 align="left">About me:</h2>
 
- <p align="left">👨🏻‍🔬Engineer with a passion for problem-solving and making the world better place. 
- <p align="left">🎓 Master's in chemical engineering from Universidade de Campinas</p>
- <p align="left">♘ Do you want to play a game of chess? 
+💻 Software Developer with hands-on experience in Angular and Python  
+📊 Skills in data analysis, modeling, and interpretation  
+ 🧠 Background in algorithmic thinking and scientific computing  
+ 🧪 Experienced in applying statistical methods and Design of Experiments (DOE)  
+ 🔍 Passionate about clean code, performance optimization, and best practices  
+ 🏦 Exploring applications of IT and data science in the financial sector  
+ 🍃 Interested in integrating sustainability and tech for impactful solutions  
  
-  [<img alt="Chess" width="80" src="https://preview.redd.it/fd50cxqm4nl71.png?width=640&crop=smart&auto=webp&s=ddecdca190d6ff782bce6fccbe57efcb7084e7d2" />](https://www.chess.com/member/williamcesar)</p>
+ ♘ Do you want to play a game of chess? 
+ 
+  [<img alt="Chess" height=120px src="https://preview.redd.it/fd50cxqm4nl71.png?width=640&crop=smart&auto=webp&s=ddecdca190d6ff782bce6fccbe57efcb7084e7d2" />](https://www.chess.com/member/williamcesar)</p>
  
 ## My stats:
 
@@ -35,18 +41,24 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="Numpy" height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
 <img align="center" alt="Pandas" height=80px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
-<img align="center" alt="Matplotlib" height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
+<img align="center" alt="Matplotlib" height=150px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
 <img align="center" alt="Scikit" height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
  </div><br/>
+
+## Frameworks:
+<div style="display: inline_block"><br/>
+<img align="center" alt="Angular" height=70px src="https://github.com/willc127/logos/blob/main/Angular_wordmark_gradient.png"/>
+
+## Version Control:
+<div style="display: inline_block"><br/>
+<img align="center" alt="Git" height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
+<img align="center" alt="Github" height=80px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
+</div><br/>
 
 ## Artificial Intelligence:
 <div style="display: inline_block"><br/>
 <img align="center" alt="Chatgpt" height=50px src="https://github.com/willc127/logos/blob/main/ChatGPT_logo.svg"/>
 <img align="center" alt="Deepseek" height=50px src="https://github.com/willc127/logos/blob/main/DeepSeek_logo.svg"/>
-
-## Frameworks:
-<div style="display: inline_block"><br/>
-<img align="center" alt="Angular" height=70px src="https://github.com/willc127/logos/blob/main/Angular_wordmark_gradient.png"/>
 
 ## IDEs/Editors:
 
@@ -73,14 +85,9 @@
 <img align="center" alt="OnlyOffice" height=70px src="https://github.com/willc127/logos/blob/main/ONLYOFFICE_logo_(centered).svg.png"/>
 </div><br/>
 
-## Version Control:
-<div style="display: inline_block"><br/>
-<img align="center" alt="Git" height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
-<img align="center" alt="Github" height=80px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
-</div><br/>
 
-## <h3 align="left">Contact me:</h2>
-<div style="align-items: "center"">
+## Contact me:
+<div>
 <a href="https://www.linkedin.com/in/williamcesarribeiro/">
   <img src="https://github.com/willc127/logos/blob/main/LinkedIn_Logo.svg"   height="50px">
 </a>
